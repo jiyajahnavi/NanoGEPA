@@ -213,9 +213,3 @@ Inspired by:
 - LLM-JEPA research
 - nanoGPT implementation philosophy
 
-Special thanks to:
-
-- **Aditi Khatana**
-- **Rishabh Yadav**
-
-for discussions and contributions during development.
